@@ -1,0 +1,23 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+p {
+  background-color: #59b99a;
+  font-size: 1rem;
+}
+span {
+  background: green;
+  color: white;
+}
+a {
+  color: white;
+}
+
+div {
+  background: blue;
+  min-height: 100vh;
+  margin-bottom: 2rem;
+}
